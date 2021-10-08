@@ -1,0 +1,3 @@
+C:/Users/William BRISA/CLionProjects/nombres_parfaits/cmake-build-debug/CMakeFiles/nombres_parfaits.dir
+C:/Users/William BRISA/CLionProjects/nombres_parfaits/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/William BRISA/CLionProjects/nombres_parfaits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

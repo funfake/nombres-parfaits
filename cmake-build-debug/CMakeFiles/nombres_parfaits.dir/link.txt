@@ -1,0 +1,3 @@
+"C:\Users\William BRISA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\nombres_parfaits.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\nombres_parfaits.dir/objects.a @CMakeFiles\nombres_parfaits.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\nombres_parfaits.dir/objects.a -Wl,--no-whole-archive -o nombres_parfaits.exe -Wl,--out-implib,libnombres_parfaits.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\nombres_parfaits.dir\linklibs.rsp

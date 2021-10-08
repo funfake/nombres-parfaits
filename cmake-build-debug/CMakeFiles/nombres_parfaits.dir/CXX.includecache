@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/William BRISA/CLionProjects/nombres_parfaits/main.cpp
+iostream
+-
+vector
+-
+mesFonctions.h
+C:/Users/William BRISA/CLionProjects/nombres_parfaits/mesFonctions.h
+
+C:/Users/William BRISA/CLionProjects/nombres_parfaits/mesFonctions.cpp
+mesFonctions.h
+C:/Users/William BRISA/CLionProjects/nombres_parfaits/mesFonctions.h
+
+C:/Users/William BRISA/CLionProjects/nombres_parfaits/mesFonctions.h
+iostream
+-
+vector
+-
+
